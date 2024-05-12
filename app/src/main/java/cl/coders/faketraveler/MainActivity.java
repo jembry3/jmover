@@ -1,4 +1,4 @@
-package cl.coders.faketraveler;
+package cl.coders.jmover;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
@@ -20,9 +20,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import static cl.coders.faketraveler.MainActivity.SourceChange.CHANGE_FROM_EDITTEXT;
-import static cl.coders.faketraveler.MainActivity.SourceChange.CHANGE_FROM_MAP;
-import static cl.coders.faketraveler.MainActivity.SourceChange.NONE;
+import static cl.coders.jmover.MainActivity.SourceChange.CHANGE_FROM_EDITTEXT;
+import static cl.coders.jmover.MainActivity.SourceChange.CHANGE_FROM_MAP;
+import static cl.coders.jmover.MainActivity.SourceChange.NONE;
 
 
 public class MainActivity extends AppCompatActivity {
