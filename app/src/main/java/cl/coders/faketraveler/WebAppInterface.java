@@ -1,9 +1,9 @@
-package cl.coders.faketraveler;
+package cl.coders.jmover;
 
 import android.content.Context;
 import android.webkit.JavascriptInterface;
 
-import static cl.coders.faketraveler.MainActivity.SourceChange.CHANGE_FROM_MAP;
+import static cl.coders.jmover.MainActivity.SourceChange.CHANGE_FROM_MAP;
 
 
 public class WebAppInterface {
