@@ -1,4 +1,4 @@
-package cl.coders.faketraveler;
+package cl.coders.jmover;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
